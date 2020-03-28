@@ -1,5 +1,5 @@
 # 介绍
-leetcode题解代码，因github篇幅、排版等问题，详细题解还是放到博客上比较方便。博客链接：
+leetcode题解代码，因github篇幅、排版等问题，详细题解还是放到博客上比较方便。博客链接：https://blog.csdn.net/feng964497595/category_9848847.html
 
 # 目前实现的语言
 - [x] c++
