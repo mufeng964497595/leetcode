@@ -2,6 +2,7 @@
  * @lc app=leetcode.cn id=4 lang=cpp
  *
  * [4] 寻找两个有序数组的中位数
+ * 题解博客：https://blog.csdn.net/feng964497595/article/details/105327458
  */
 
 // @lc code=start
